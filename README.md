@@ -18,7 +18,7 @@ aberta com todas as pastas do usuário.
 Baixem essa pasta econometria_2020 clickando no botão Download aqui no github. 
 
 ## Quinto Passo:
-Volte à pagina principal aberta pelo seu Jupyter Notebook, vá em Downloads, encontre a pasta econometria_2020 e abra o arquivo .ipynb 
+Volte à pagina principal aberta pelo seu Jupyter Notebook, vá em 'Clone or Downloads', encontre a pasta econometria_2020 e abra o arquivo .ipynb 
 
 ## Sexto Passo: 
 Está tudo pronto para rodar o código, boa sorte! 
